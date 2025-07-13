@@ -87,7 +87,7 @@ for i in range(5,75,2):
             tel.append("hata")
             site.append("hata")
 
-# ✅ Sonuçları bastıralım koçum
+
 import csv
 
 with open('markets.csv', 'w', newline='', encoding='utf-8') as csvfile:
